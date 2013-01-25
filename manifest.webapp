@@ -1,0 +1,13 @@
+{
+  "name": "Test App",
+  "description": "Testing OWA development",
+  "launch_path": "http://tapanbasak.github.com/test/",
+  "icons": {
+    "128": "http://tapanbasak.github.com/test/images/octocat-2x.png"
+  },
+  "developer": {
+    "name": "Tapan Basak",
+    "url": "http://tapanbasak.github.com"
+  },
+  "default_locale": "en"
+}
