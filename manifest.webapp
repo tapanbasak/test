@@ -1,7 +1,7 @@
 {
   "name": "Test App",
   "description": "Testing OWA development",
-  "launch_path": "/",
+  "launch_path": "/test/index.html",
   "icons": {
     "128": "http://tapanbasak.github.com/test/images/octocat-2x.png"
   },
